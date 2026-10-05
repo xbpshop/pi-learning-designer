@@ -1,0 +1,10 @@
+{
+  "name": "@shopify/pi-learning-designer",
+  "version": "0.1.0",
+  "description": "Pi skill: a master learning designer for Revenue Enablement work. Visual-first explainers, backward design, measurement plans, immersive HTML one-pagers.",
+  "keywords": ["pi-package", "pi-skill", "learning-design", "enablement"],
+  "license": "MIT",
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
