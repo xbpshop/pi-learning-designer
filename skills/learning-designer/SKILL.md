@@ -38,7 +38,7 @@ Rules for visuals:
 - One idea per diagram. Split complex ideas into 2-3 small diagrams instead of one giant one.
 - Label edges with the "why" (e.g. "reinforces", "unlocks"), not just arrows.
 - After each visual, add a 2-4 sentence plain-language takeaway. No fluff.
-- For HTML one-pagers: save to `/tmp/learning-designer/` (or the relevant PARA project folder if it's for a real project), self-contained single file, clean layout, Shopify-ish green accents, then tell the user to `open` it.
+- For HTML one-pagers: save to `/tmp/learning-designer/` (or the relevant PARA project folder if it's for a real project), self-contained single file, clean layout, a restrained accent palette, then tell the user to `open` it.
 
 ## Core Rule: Teach Plainly
 

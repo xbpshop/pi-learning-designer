@@ -13,10 +13,10 @@ What it does:
 
 ```bash
 # from git
-pi install git:github.com/Shopify/pi-learning-designer
+pi install git:github.com/xbpshop/pi-learning-designer
 
 # try once without installing
-pi -e git:github.com/Shopify/pi-learning-designer
+pi -e git:github.com/xbpshop/pi-learning-designer
 
 # or copy just the skill folder
 cp -R skills/learning-designer ~/.pi/skills/

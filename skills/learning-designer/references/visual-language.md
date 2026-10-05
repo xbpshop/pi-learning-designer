@@ -37,7 +37,7 @@ Pick ONE direction per training. Check the design log (below) and do not use the
 | Brutalist | Raw black/white, hard edges, oversized type | Ultra-bold, tight leading | Confident, no decoration |
 | Organic | Soft gradients, blobs, natural hues | Humanist sans | Story-like, gentle |
 
-Shopify green is an accent option, not a requirement. It must never make every page look the same.
+A brand accent color is an option, not a requirement. It must never make every page look the same.
 
 ## Motion and interaction patterns (pick 2-3, not all)
 

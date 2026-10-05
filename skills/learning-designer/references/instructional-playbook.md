@@ -1,24 +1,24 @@
 # Instructional Playbook (from real projects)
 
-Distilled from Retail Roulette / Physical 100, Storefronts Deep Dive, the DPE Microlearning Ecosystem, and Technical Product Training. These are defaults, not suggestions.
+Distilled from several real sales enablement programs: a competitive quiz-show series, a multi-day product deep dive, a microlearning ecosystem, and a technical product training track. These are defaults, not suggestions.
 
 ## 1. One real merchant carries everything
-Every training rides on a single recognizable brand (Gymshark, Reformation) with real numbers. The brand is real, the scenario is illustrative, and you say so plainly. Abstract examples are banned. (Storefronts Day 4: "so the storefront decisions stay concrete instead of abstract.")
+Every training rides on a single recognizable brand with real numbers. The brand is real, the scenario is illustrative, and you say so plainly. Abstract examples are banned: the goal is that every decision stays concrete instead of abstract.
 
 ## 2. Evidence-traced content, always
-Content comes from field signal: call analysis, SME transcripts, live-session questions. Every claim and question should trace to a source (Retail Roulette: every question carries a transcript timestamp). If content can't be traced to something a rep actually asked or an SME actually said, flag it as unsourced.
+Content comes from field signal: call analysis, SME transcripts, live-session questions. Every claim and question should trace to a source (for example, every quiz question carries a transcript timestamp). If content can't be traced to something a rep actually asked or an SME actually said, flag it as unsourced.
 
 ## 3. Competition and game mechanics for seller audiences
 Sellers love Kahoot-style competition, leaderboards, prizes, visible progression (participant walls, elimination with re-entry, points, "I'm feeling lucky"). Stakes make attention. But eliminations always have a re-entry path; the tone is stakes, not shame.
 
 ## 4. Learner notices before expert tells
-Open activities with a blank-slate window: let learners observe and note before anyone points anything out. Discovery first, explanation second. (Retail Roulette D1.)
+Open activities with a blank-slate window: let learners observe and note before anyone points anything out. Discovery first, explanation second.
 
 ## 5. Hands-on beats lecture, structurally
 "Go find X in the admin and bring it back." Sandboxed 5-10 minute activities, demo pitch competitions, store-visit homework with an observation guide. Light grading (did you do it), not heavy rubrics. Max 20% telling.
 
 ## 6. Top-3, not exhaustive
-Ship the top 3 issues per block, from real signal. Iterate from there. Exhaustive catalogs are a smell. (DPE MVP principle.)
+Ship the top 3 issues per block, from real signal. Iterate from there. Exhaustive catalogs are a smell.
 
 ## 7. Modular blocks, standalone outcomes
 Basics → Merchant Scenarios → Strategy. Each block leaves the learner with something usable even after a long gap. Strategy is the block that separates a demo from a real technical conversation: the "why", the trade-offs, and when "no, and here's why" is the right answer.

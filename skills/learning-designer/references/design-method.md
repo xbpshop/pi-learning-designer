@@ -20,7 +20,7 @@ Sequence information like a camera zooming in. Each level answers the question t
 1. **Why this matters to YOU** (relevance hook, 1-2 sentences). Creates: "ok, what is it?"
 2. **The whole thing in one sentence or one picture** (the mental model / advance organizer). Creates: "what are the parts?"
 3. **The map**: parts named, relationships shown, nothing explained yet. Creates: "how does part 1 work?"
-4. **One concrete running example** enters (Maria, Gymshark) and walks the map. Creates: "what about my situation?"
+4. **One concrete running example** enters (Maria, a named real brand) and walks the map. Creates: "what about my situation?"
 5. **Zoom into one part at a time**, example first, term second. Never open two zoom levels at once.
 6. **Edge cases and exceptions last.** They only make sense once the normal case is solid.
 7. **Back out to the map**, then apply: the learner places their own deal/scenario on the map.
